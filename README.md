@@ -19,5 +19,5 @@ Sou apaixonado por tecnologia e busco sempre novos desafios que me permitam expa
 
 ## Conecte-se comigo
 
-- [LinkedIn]([(https://www.linkedin.com/in/gabrieldecantunes/)])
+- [LinkedIn](https://www.linkedin.com/in/gabrieldecantunes/)
 
