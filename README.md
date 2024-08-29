@@ -13,6 +13,11 @@ Sou um desenvolvedor com foco em backend, especializando minhas habilidades em J
 - **Pandas:** Manipulação e análise de dados.
 - **Tkinter:** Desenvolvimento de interfaces gráficas.
 
+### Front-end
+- HTML
+- CSS
+- JavaScript 
+
 ## Sobre mim
 
 Sou apaixonado por tecnologia e busco sempre novos desafios que me permitam expandir meus conhecimentos. Atualmente, meu foco está em aprimorar minhas habilidades em Python para automação de processos e em fortalecer ainda mais minha expertise em backend com Java.
@@ -20,4 +25,3 @@ Sou apaixonado por tecnologia e busco sempre novos desafios que me permitam expa
 ## Conecte-se comigo
 
 - [LinkedIn](https://www.linkedin.com/in/gabrieldecantunes/)
-
