@@ -5,7 +5,7 @@ Sou um desenvolvedor com foco em backend, especializando minhas habilidades em J
 ## Tecnologias 
 
 ### Java 
-- **Spring:** Criação de APIs RESTful.
+- **Spring:** Criação de APIs REST.
 - **Hibernate:** Mapeamento objeto-relacional.
 
 ### Python
@@ -20,7 +20,7 @@ Sou um desenvolvedor com foco em backend, especializando minhas habilidades em J
 
 ## Sobre mim
 
-Sou apaixonado por tecnologia e busco sempre novos desafios que me permitam expandir meus conhecimentos. Atualmente, meu foco está em aprimorar minhas habilidades em Python para automação de processos e em fortalecer ainda mais minha expertise em backend com Java.
+Sou apaixonado por tecnologia e busco sempre novos desafios que me permitam expandir meus conhecimentos. Atualmente, meu foco está em aprimorar minhas habilidades em backend com Java e frontend com React.
 
 ## Conecte-se comigo
 
