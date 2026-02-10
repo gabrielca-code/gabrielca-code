@@ -14,9 +14,8 @@ Sou um desenvolvedor com foco em backend, especializando minhas habilidades em J
 - **Tkinter:** Desenvolvimento de interfaces gráficas.
 
 ### Front-end
-- HTML
-- CSS
-- JavaScript 
+- React.js
+- Bootstrap.css
 
 ## Sobre mim
 
