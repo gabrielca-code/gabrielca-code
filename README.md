@@ -1,9 +1,9 @@
 # Olá! Eu sou o Gabriel!
 
 Sou um desenvolvedor com foco em backend, especializando minhas habilidades em Java e seus principais frameworks como Spring e Hibernate. 
-<br>Já atuei com desenvolvimento de automações com Python, utilizando diversas bibliotecas para otimizar processos e criar soluções corporativas. 
+<br><br>Já atuei com desenvolvimento de automações com Python, utilizando diversas bibliotecas para otimizar processos e criar soluções corporativas. 
 Também atuei com desenvolvimento Low-Code e BI usando todo o ecossistema da Microsoft Power Platform (Power Apps, Power Automate, Power BI, SharePoint)
-Atualmente, atuo no área de desenvolvimento de ChatBot usando o Cognigy.AI.
+<br><br>Atualmente, atuo no área de desenvolvimento de ChatBot usando o Cognigy.AI.
 
 ## Tecnologias 
 
