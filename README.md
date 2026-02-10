@@ -25,4 +25,4 @@ Sou apaixonado por tecnologia e busco sempre novos desafios que me permitam expa
 
 - [LinkedIn](https://www.linkedin.com/in/gabrieldecantunes/)
 
-[![My Skills](https://skillicons.dev/icons?i=java,react,js,html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,react,js,html,css,python)](https://skillicons.dev)
